@@ -41,7 +41,7 @@ This project is a Chrome extension that embeds an AI chatbot into any website. T
 ### 2️⃣ Chrome Extension Setup
 1. Navigate to the frontend directory:
    ```sh
-   cd frontend
+   cd extension
    ```
 2. Load the extension in Chrome:
    - Open **chrome://extensions/** in the browser.
